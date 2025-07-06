@@ -1,8 +1,8 @@
-# Material UI - Vite example in TypeScript
+# React Material UI App - Vite in TypeScript
 
 ## How to use
 
-Download the example [or clone the repo]([https://github.com/mui/material-ui](https://github.com/ranjanpadhi1/react-mui-app)):
+Download the example [or clone the repo](https://github.com/ranjanpadhi1/react-mui-app):
 
 Install it and run:
 
