@@ -4,7 +4,7 @@
 
 Install VSCode and Node JS 22
 
-[Clone the repo](https://github.com/ranjanpadhi1/react-mui-app):
+[Clone the repo](https://github.com/ranjanpadhi1/react-mui-app)
 
 Install it and run:
 
