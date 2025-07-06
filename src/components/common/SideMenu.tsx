@@ -9,6 +9,7 @@ import Typography from '@mui/material/Typography';
 import MenuContent from './MenuContent';
 // import CardAlert from './CardAlert';
 import OptionsMenu from './OptionsMenu';
+import { APP_NAME } from '../../constants/common';
 
 const drawerWidth = 240;
 
@@ -41,7 +42,7 @@ export default function SideMenu() {
           p: 1.5,
         }}
       >
-        <h3>Smart Algo Trade</h3>
+        <h3>{APP_NAME}</h3>
       </Box>
       <Divider />
       <Box
@@ -67,7 +68,7 @@ export default function SideMenu() {
       >
         <Avatar
           sizes="small"
-          alt="Riley Carter"
+          alt="Ranjan Padhi"
           src="/static/images/avatar/7.jpg"
           sx={{ width: 36, height: 36 }}
         />
