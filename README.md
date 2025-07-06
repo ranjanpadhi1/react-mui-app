@@ -2,7 +2,7 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/ranjanpadhi1/react-mui-app):
+[Clone the repo](https://github.com/ranjanpadhi1/react-mui-app):
 
 Install it and run:
 
