@@ -2,6 +2,8 @@
 
 ## How to use
 
+Install VSCode and Node JS 22
+
 [Clone the repo](https://github.com/ranjanpadhi1/react-mui-app):
 
 Install it and run:
@@ -19,4 +21,3 @@ It includes `@mui/material` and its peer dependencies, including [Emotion](https
 <!-- #host-reference -->
 
 You now have a working example project.
-You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
